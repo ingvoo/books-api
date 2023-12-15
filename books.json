@@ -1,44 +1,44 @@
 [
-  {
-    "title": "Die geheimnisvollen Akten von Margo Maloo: Das geheime Netz",
-    "pubDate": "2020",
-    "dateAdded": "2023-12-07"
-  },
-  {
-    "title": "Die geheimnisvollen Akten von Margo Maloo: Die Monster-Mall",
-    "author": "Drew Weing",
-    "publisher": "Reprodukt",
-    "pubDate": "2020",
-    "dateAdded": "2023-12-03"
-  },
-  {
-    "title": "Die gehemnisvollen Akten von Margo Maloo",
-    "author": "Drew Weing",
-    "publisher": "Reprodukt",
-    "pubDate": "2020",
-    "dateAdded": "2023-12-01"
-  },
-  {
-    "title": "Breath",
-    "author": "Drew Weing",
-    "publisher": "Reprodukt",
-    "pubDate": "2021",
-    "dateAdded": "2023-09-01",
-    "audiobook": "true"
-  },
-  {
-    "title": "Das Sams und der blaue Drache",
-    "author": "Paul Maar",
-    "publisher": "Reprodukt",
-    "pubDate": "2018",
-    "completed": "2023-10-01"
-  },
-  {
-    "title": "Polysecure",
-    "author": "",
-    "publisher": "",
-    "published": "2021",
-    "completed": "2023-12-01",
-    "audiobook": "true"
-  }
+    {
+        "title": "Die geheimnisvollen Akten von Margo Maloo: Das geheime Netz",
+        "pubDate": "2020",
+        "dateAdded": "2023-12-07"
+    },
+    {
+        "title": "Die geheimnisvollen Akten von Margo Maloo: Die Monster-Mall",
+        "author": "Drew Weing",
+        "publisher": "Reprodukt",
+        "pubDate": "2020",
+        "dateAdded": "2023-12-03"
+    },
+    {
+        "title": "Die gehemnisvollen Akten von Margo Maloo",
+        "author": "Drew Weing",
+        "publisher": "Reprodukt",
+        "pubDate": "2020",
+        "dateAdded": "2023-12-01"
+    },
+    {
+        "title": "Breath",
+        "author": "Drew Weing",
+        "publisher": "Reprodukt",
+        "pubDate": "2021",
+        "dateAdded": "2023-09-01",
+        "audiobook": "true"
+    },
+    {
+        "title": "Das Sams und der blaue Drache",
+        "author": "Paul Maar",
+        "publisher": "Reprodukt",
+        "pubDate": "2018",
+        "completed": "2023-10-01"
+    },
+    {
+        "title": "Polysecure",
+        "author": "",
+        "publisher": "",
+        "published": "2021",
+        "completed": "2023-12-01",
+        "audiobook": "true"
+    }
 ]
