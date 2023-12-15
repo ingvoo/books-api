@@ -1,10 +1,5 @@
 [
   {
-    "title": "",
-    "pubDate": "",
-    "dateAdded": "10-12.2023"
-  },
-  {
     "title": "Die geheimnisvollen Akten von Margo Maloo: Das geheime Netz",
     "pubDate": "2020",
     "dateAdded": "2023-12-07"
@@ -45,5 +40,5 @@
     "published": "2021",
     "completed": "2023-12-01",
     "audiobook": "true"
-  },
+  }
 ]
