@@ -1,7 +1,16 @@
 {
     "results": [
         {
+            "title": "Die magische Spieluhr 1. Willkommen in Pandorient",
+            "author": "Gije & Carbone",
+            "publisher": "Toonfish",
+            "pubDate": "2020",
+            "dateAdded": "2023-12-17"
+        },
+        {
             "title": "Die geheimnisvollen Akten von Margo Maloo: Das geheime Netz",
+            "author": "Drew Weing",            
+            "publisher": "Reprodukt",
             "pubDate": "2020",
             "dateAdded": "2023-12-07"
         },
@@ -21,9 +30,9 @@
         },
         {
             "title": "Breath",
-            "author": "Drew Weing",
-            "publisher": "Reprodukt",
-            "pubDate": "2021",
+            "author": "",
+            "publisher": "",
+            "pubDate": "",
             "dateAdded": "2023-09-01",
             "audiobook": "true"
         },
